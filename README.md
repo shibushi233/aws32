@@ -1,7 +1,7 @@
 # Shizuku Launcher
 
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4d16146f-f7a4-44bf-ba4e-dbbff06180f6/deploy-status)](https://app.netlify.com/sites/aws32/deploys)
 
 
 
